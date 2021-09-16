@@ -25,7 +25,7 @@ For The Most Recent Changes, Please Check The Changelog.👇
 ## 👉[Changelog](https://github.com/iamLiquidX/MirrorX/wiki/Changelog)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https:/Abhisek331/github.com//MirrorX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhisek331/MirrorX)
 
 
 # Credits 👇
