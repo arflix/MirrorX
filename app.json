@@ -111,14 +111,13 @@
         "description": "(Optional field) Fill your shortener api key if you are using shortener.",
         "value": "",
         "required": false
-      }
-    },
-    "AUTHORIZED_CHATS": {
+      },
+      "AUTHORIZED_CHATS": {
         "description": "(Optional field) Fill you authorized group or person id",
         "value": "",
         "required": false
-      }
-    },
+       }
+      },
     "addons": [
       {
         "plan": "heroku-postgresql"
